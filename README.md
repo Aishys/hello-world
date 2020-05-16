@@ -1,2 +1,2 @@
 # hello-world
-Hello world course work
+CS50 Hello world coursework
